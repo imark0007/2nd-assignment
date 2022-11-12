@@ -1,0 +1,13 @@
+{
+  "name": "first-node-js-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first-website.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "enter" : "node first-website.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
